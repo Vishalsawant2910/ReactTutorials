@@ -1,10 +1,10 @@
-.App {
+.App1 {
   text-align: center;
   
 }
 
-h1{
-  color:deeppink;
+.h1_App1{
+  color:blueviolet;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: darkseagreen;
+  background-color:chartreuse;
 }
